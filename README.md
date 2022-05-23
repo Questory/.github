@@ -1,2 +1,0 @@
-# Questory
-Temp
